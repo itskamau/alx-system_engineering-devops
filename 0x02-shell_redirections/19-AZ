@@ -1,0 +1,2 @@
+#!/bin/bash
+tre "A" "Z" | tre "c" "e"
